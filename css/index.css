@@ -1,0 +1,19 @@
+img{
+    width: 100%;
+    height: 300px;
+}
+img{
+    width: 100%;
+    height: 400px;
+}
+#intro{
+    background-color: beige;
+}
+.home{
+    background-color: burlywood;
+}
+p{
+    front size: 20px;
+    padding-top: 20px;
+padding: auto;
+}
